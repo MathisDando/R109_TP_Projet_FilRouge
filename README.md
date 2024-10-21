@@ -1,8 +1,8 @@
-**TP Projet Fil Rouge**
+#TP Projet Fil Rouge
 
-Liens de la page web: 
+##Liens de la page web: 
 
-Objectifs:
+##Objectifs:
 1. Créer une page web
 2. Utiliser Html et Css
 3. Actualiser les images via une api
